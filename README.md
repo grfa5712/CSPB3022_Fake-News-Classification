@@ -1,1 +1,4 @@
-# CSPB3022_Fake-News-Classification
+# CSPB3022 Fake News Classification
+
+Final Project in CSPB 3022 - Fall 2022
+By Grant Fairbairn
