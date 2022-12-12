@@ -26,5 +26,5 @@ My code for the project is located in the Python file in this repository entitle
 
 The datasets Fake.csv and True.csv are available on Kaggle at https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv. They were too large to load directly into this repository.
 
-Link to video presentation of the project: ___________
+Link to video presentation of the project: https://youtu.be/-2V35GtegO8
 
