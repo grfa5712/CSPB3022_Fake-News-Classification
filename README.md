@@ -17,12 +17,14 @@ My goal with this project was to use classification techniques on two datasets c
 
 ### Data Source and Description
 
-The data for this report was found on [Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv). I was looking for something timely, and with the onslaught of political news swirling around social media platforms due to the mid-term elections in November 2022, this data set jumped out.  
+The data for this report was found on Kaggle. I was looking for something timely, and with the onslaught of political news swirling around social media platforms due to the mid-term elections in November 2022, this data set jumped out.  
 
 
 ### Code and Video Presentation
 
 My code for the project is located in the Python file in this repository entitled "CSPB3022_Final_Project.ipynb".
+
+The datasets Fake.csv and True.csv are available on Kaggle at https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv. They were too large to load directly into this repository.
 
 Link to video presentation of the project: ___________
 
